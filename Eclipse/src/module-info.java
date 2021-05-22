@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author fregi
+ *
+ */
+module Eclipse {
+}

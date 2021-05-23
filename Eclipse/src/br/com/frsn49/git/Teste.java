@@ -6,13 +6,14 @@ package br.com.frsn49.git;
 
 /**
  * @author fregi
- * IntegraÁ„o da IDE do Eclipse com o GitHub.
+ * Integra√ß√£o da IDE do Eclipse com o GitHub.
  */
 public class Teste {
 
 	public static void main(String[] args) {
 	
-	 System.out.println("hello World. Ol· mundo!");
+	 System.out.println("hello World. Ol√° mundo!");
+	 system.out.println(" Vamos Pensar um Pouco");	
 
 	}
 
